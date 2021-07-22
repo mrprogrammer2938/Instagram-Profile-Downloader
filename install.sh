@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This Programm Write by Mr.nope
 # Instagram-Profile-Downloader 1.2
 
 if [[ "$(id -u)" -ne 0 ]]; then
